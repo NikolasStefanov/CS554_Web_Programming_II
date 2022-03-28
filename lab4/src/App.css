@@ -1,0 +1,55 @@
+.App {
+	text-align: center;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.App-logo {
+	height: 80px;
+}
+
+input {
+	border: 1px solid #b52e2e;;
+}
+.show-body {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.App-header {
+	background-color: #b52e2e;;
+	height: 200px;
+	padding: 20px;
+	color: #121212;
+}
+
+.headerLink {
+	padding: 0.4rem 0.8rem;
+	background-color: white;
+	border-radius: 3px;
+	color: #b52e2e;
+	text-decoration: none !important;
+	margin: 5px;
+}
+
+.headerLink:hover {
+	background-color: transparent;
+	color: white;
+	border: 2px solid white;
+}
+
+.thumbnail{
+	height: 300px;
+	width: 300px;
+}
+
+.comic-thumbnail{
+	height: 400px;
+	width: 300px;
+}
+
